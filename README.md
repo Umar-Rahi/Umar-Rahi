@@ -128,7 +128,7 @@ Conversational AI chatbot web and mobile app integrating basic NLP, user-friendl
 ## 📫 Contact & Links
 
 <p align="center">
-  <a href="urahi788@gmail.com">
+  <a href="mailto:urahi788@gmail.com">
     <img src="https://img.shields.io/badge/Email-%2314B8A6.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://linkedin.com/in/your-linkedin" target="_blank">
